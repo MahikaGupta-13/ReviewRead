@@ -13,11 +13,11 @@ ReviewRead is a dynamic web-based review platform where users can explore, searc
 - **Admin Panel**: Manage users, moderate reviews, maintain system integrity
 - **Search & Filter**: Real-time filtering by category, rating, or keyword
 
-## 📄 Documentation
-[View Full Project Documentation (PDF)](ReviewRead_Documentation.pdf)
-
 ## 🛠 Technologies Used
 - Advanced Java (Servlets, JSP)
 - HTML, CSS, JavaScript
 - MongoDB
 
+
+## 📄 Documentation
+[View Full Project Documentation (PDF)](ReviewRead_Documentation.pdf)
