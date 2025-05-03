@@ -14,7 +14,7 @@ ReviewRead is a dynamic web-based review platform where users can explore, searc
 - **Search & Filter**: Real-time filtering by category, rating, or keyword
 
 ## 📄 Documentation
-[View Full Project Documentation (PDF)](ReviewRead_documentation.pdf)
+[View Full Project Documentation (PDF)](ReviewRead_Documentation.pdf)
 
 ## 🛠 Technologies Used
 - Advanced Java (Servlets, JSP)
