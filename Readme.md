@@ -1,6 +1,23 @@
-ReviewRead | Advanced Java, JSP, MongoDB
-Developed a web-based review and discovery platform that allows users to explore, filter, and contribute reviews for books, restaurants, and places.
-The system supports secure user registration and login, personalized dashboards, and category-based browsing. 
-Users can post detailed reviews with images, rate content, and search using filters like name or rating. 
-Admins can manage users and moderate content to ensure quality and relevance. 
-The platform improves decision-making through real user experiences and promotes community-driven insights in an intuitive and interactive interface.
+#ReviewRead 
+ReviewRead is a dynamic web-based review platform where users can explore, search, and contribute reviews for books, restaurants, and places — simplifying discovery through community insights.
+
+## 🌟 Features
+- User registration and secure login
+- Category-based content (Books, Restaurants, Places)
+- Review submission with text, ratings, and images
+- Filter and search by name or rating
+- Admin panel for user and review moderation
+
+## 📂 Modules
+- **User Panel**: Post and browse reviews, upload images, rate content
+- **Admin Panel**: Manage users, moderate reviews, maintain system integrity
+- **Search & Filter**: Real-time filtering by category, rating, or keyword
+
+## 📄 Documentation
+[View Full Project Documentation (PDF)](ReviewRead_documentation.pdf)
+
+## 🛠 Technologies Used
+- Advanced Java (Servlets, JSP)
+- HTML, CSS, JavaScript
+- MongoDB
+
